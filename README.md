@@ -24,3 +24,9 @@ Select the `MongoDB-DataAPI-Sample.swagger.json` file from this repo.
 
 Change the `baseURL` to reflect your environment. you can find your `<Data API App ID>`in the `Data API ` section of the MongoDB [Atlas console](https://cloud.mongodb.com).   
 ![baseURL](baseurl.png)
+
+
+# Disclaimer
+
+This is a sample custom connector.  
+Use at your own risk; not a supported MongoDB product
